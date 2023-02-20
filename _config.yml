@@ -59,8 +59,8 @@ content:
         # link_text: Project Website
         additional_links:
           - title:  sproogen/modern-resume-theme
-            icon: fab fa-github
-            url: github.com/sproogen/modern-resume-theme
+          #  icon: fab fa-github
+          #  url: github.com/sproogen/modern-resume-theme
           # - title:  Github page for project (eg. sproogen/modern-resume-theme)
           #   icon: fab fa-github
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
@@ -83,11 +83,11 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: The Boring Company
-        link: boringcompany.com
+        title: 왜 가?
+        link: http://whystay.p-e.kr
         # link_text: boringcompany.com
-        sub_title: Senior Network System Administrator
-        caption: November 2017 - Present
+        sub_title: 숙박목적에 따른 예약 플랫폼
+        caption: 2023.01 - 2023.02
         quote: >
           Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
         description: | # this will include new lines to allow paragraphs
@@ -116,13 +116,12 @@ content:
     layout: text
     content: | # this will include new lines to allow paragraphs
       * <strong>Java</strong>
-      * <strong>Spring Boot</strong>
-      * <strong></strong>
-      * <strong></strong>
+      * <strong>Spring Boot</strong>, <strong>Spting MVC</strong>, <strong>Spring JPA</strong>, <strong>Spring JWT</strong>
+      * <strong>IntelliJ</strong>
+      * <strong>MySQL</strong>
+      * <strong>AWS</strong>
+      * <strong>Github</strong>
 
-
-      Look at this cool image  
-      ![Trees](/modern-resume-theme/images/landscape-trees.jpg "Trees")
 
 # Footer
 footer_show_references: true
