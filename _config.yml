@@ -1,5 +1,5 @@
 # Site
-repository: EgongD.github.io
+repository: EgongD/EgongD.github.io
 favicon: images/favicon.ico
 
 # Content configuration version
@@ -11,7 +11,7 @@ title: Backend Engineer
 email: dlghtpdk@gmail.com
 
 # Dark Mode (true/false/never)
-darkmode: false
+darkmode: never
 
 # Social links
 github_username:  Egongd
@@ -45,17 +45,17 @@ additional_links:
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Brett and I'm a senior network system administrator. As well as administrating systems I also have experience making software and web apps. I have worked at a number of companies gaining teamwork and leadership skills.
-
-  I am most skilled in: <mark>AWS</mark> and <mark>Eating Pizza</mark>
+  비전공자에서 개발의 세계로 넘어온 이호세아 입니다. <br>
+  이런저런 자기개발을하며 회사생활을 하고 있었는데 Java 입문 수업을 듣고 '앗! 너무재미있다! 더 배우고싶다!'라는 생각에 코드스테이츠로 코딩을 본격적으로 배우기 시작했습니다.<br>
+  
 
 content:
-  - title: Projects # Title for the section
+  - title: Strength # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: top-middle
-        title: Super awesome project
-        link: github.com/sproogen
+        # title: 
+        # link: github.com/sproogen
         # link_text: Project Website
         additional_links:
           - title:  sproogen/modern-resume-theme
@@ -65,11 +65,21 @@ content:
           #   icon: fab fa-github
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
         quote: >
-          This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
+          늦었다고 생각했을 때 더 늦기 전에 더해보고싶은걸 해보자!
         description: | # this will include new lines to allow paragraphs
-          I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
+          * <strong>분석업무를 약 4년정도 할 정도로 꼼꼼함</strong><br>
+           : 정밀하게 집중해서 업무에 임해야되는 분석업무를 꼼꼼하게 수행함.
+           <br><br>
+           
+          * <strong>팀과의 협업시 소통으로 문제를 빠르게 해결</strong><br>
+           : 프리프로젝트시 소통의 부재로 개발하는 시간이 너무 오래걸려 문제가 발생했던 경험이 있어서, 메인프로젝트때에는 프론트엔드, 백엔드 가리지않고 진행상황을 공유하며 진행했습니다.
+           <br><br>
+           
+          * <strong>맡은 업무는 끝까지 수행함</strong><br>
+           : 메인프로젝트시 처음접하는 KakaoPay API를 이용해 카카오페이 테스트 결제 부분 구현.
+           <br><br>
 
-  - title: Experience # Title for the section
+  - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: left
@@ -87,24 +97,29 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: Harvard University
-        caption: 2010 - 2013
-        sub_title: BSc Computer Science
-        quote: >
-          Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
+        title: 코드스테이츠
+        caption: 2022.08 - 2023.02
+        sub_title: Backend Engnieering 41기
         description: | # this will include new lines to allow paragraphs
-          During my time at Harvard I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
+          학점 : 코딩기초, Java Spring을 기반으로 한 내용, 알고리즘, 배포환경 등
+          
+      - layout: left
+        title: 국립한국교통대학교
+        caption: 2011.03 - 2017.02
+        sub_title: 환경공학과, 친환경에너지(부전공)
+        description: | # this will include new lines to allow paragraphs
+          3.82/4.5 학점, 부전공으로 친환경에너지를 전공하였습니다. <br>
+          3학년부터 성적우수 장학금 수령.
+          
 
-          I spent a lot of my free time as a committee member of the *Harvard Mountaineering Club* taking on roles such as *Trip Secretary* and *Vice-President*.
-
-  - title: A Little More About Me
+  - title: Skill
     layout: text
     content: | # this will include new lines to allow paragraphs
-      Alongside my interests in networks and software engineering some of my other interests and hobbies are:
-      - Rock climbing
-      - Gaming
-      - Knitting
-      - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
+      * <strong>Java</strong>
+      * <strong>Spring Boot</strong>
+      * <strong></strong>
+      * <strong></strong>
+
 
       Look at this cool image  
       ![Trees](/modern-resume-theme/images/landscape-trees.jpg "Trees")
