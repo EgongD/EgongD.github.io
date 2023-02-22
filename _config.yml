@@ -70,11 +70,11 @@ content:
         quote: >
           늦었다고 생각했을 때 더 늦기 전에 해보고싶은걸 해보자!
         description: | # this will include new lines to allow paragraphs
-          * <strong>분석업무를 약 4년정도 할 정도로 꼼꼼함</strong><br>
-           : 정밀하게 집중해서 업무에 임해야 되는 분석업무를 꼼꼼하게 수행함.
+          * <strong>분석업무를 약 4년 정도 할 정도로 꼼꼼함</strong><br>
+           : 정밀하게 집중해서 업무에 임해야 하는 분석업무를 꼼꼼하게 수행함.
            <br><br>
            
-          * <strong>팀과의 협업시 소통으로 문제를 빠르게 해결</strong><br>
+          * <strong>팀과의 협업 시 소통으로 문제를 빠르게 해결</strong><br>
            : 프리 프로젝트 시 소통의 부재로 개발하는 시간이 너무 오래 걸려 문제가 발생했던 경험이 있어서, 메인 프로젝트 때에는 프론트엔드, 백엔드 가리지 않고 상황을 공유하며 진행했습니다.
            이에 별 탈 없이 프로젝트를 마무리함.
            <br><br>
@@ -118,7 +118,7 @@ content:
         caption: 2022.08 - 2023.02
         sub_title: Backend Engnieering 41기
         description: | # this will include new lines to allow paragraphs
-          코딩기초, Java Spring을 기반으로 한 내용, 알고리즘, 배포환경 등
+          코딩 기초, Java Spring을 기반으로 한 내용, 알고리즘, 배포환경 등
           
       - layout: left
         title: 국립한국교통대학교
