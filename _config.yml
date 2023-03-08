@@ -8,7 +8,8 @@ version: 2
 # Personal info
 name: 이호세아
 title: Backend Engineer
-email: dlghtpdk@gmail.com
+email: egongdae@gmail.com
+phone: 010-9356-7620
 
 # Dark Mode (true/false/never)
 darkmode: never
@@ -70,11 +71,11 @@ content:
           늦었다고 생각했을 때 더 늦기 전에 해보고싶은걸 해보자!
         description: | # this will include new lines to allow paragraphs
           * <strong>분석업무를 약 4년 정도 할 정도로 꼼꼼함</strong><br>
-           : 정밀하게 집중해서 업무에 임해야 하는 분석업무를 꼼꼼하게 수행함.
+           : 매년 환경부주관 정도관리(미지의 값을 실험을 통해 답을 도출해내는 시험) 수질, PCBs 분야 통과. 
            <br><br>
            
           * <strong>팀과의 협업 시 소통으로 문제를 빠르게 해결</strong><br>
-           : 프리 프로젝트 시 소통의 부재로 개발하는 시간이 너무 오래 걸려 문제가 발생했던 경험이 있어서, 메인 프로젝트 때에는 프론트엔드, 백엔드 가리지 않고 상황을 공유하며 진행했습니다.
+           : 프리 프로젝트 시 소통의 부재로 개발하는 시간이 너무 오래 걸려 문제가 발생했던 경험이 있어서, 메인 프로젝트 때에는 프론트엔드, 백엔드 가리지 않고 상황을 공유하며 진행.
            이에 별 탈 없이 프로젝트를 마무리함.
            <br><br>
            
@@ -102,7 +103,7 @@ content:
         sub_title: 숙박목적에 따른 예약 플랫폼
         caption: 2023.01 - 2023.02
         quote: >
-          어려워도 포기하지 않고 팀원과의 소통으로 만들어낸 첫 메인 프로젝트! 뿌듯함 X 100!
+          프론트와의 소통으로 
         description: | # this will include new lines to allow paragraphs
           - <strong>Reservation 구현</strong><br>
             : Spring MVC를 이용한 CRUD 기능을 수행하는 부분 구현.
@@ -127,14 +128,13 @@ content:
         caption: 2022.08 - 2023.02
         sub_title: Backend Engnieering 41기
         description: | # this will include new lines to allow paragraphs
-          코딩 기초, Java Spring을 기반으로 한 내용, 알고리즘, 배포환경 등
+          코딩 기초, Spring JDBC, Spring JPA, Spring JWT, 알고리즘, 배포환경 등
           
       - layout: left
         title: 국립한국교통대학교
         caption: 2011.03 - 2017.02
         sub_title: 환경공학과, 친환경에너지(부전공)
         description: | # this will include new lines to allow paragraphs
-          3.82/4.5 학점, 부전공으로 친환경에너지를 전공. <br>
           3학년부터 성적우수 장학금 수령.
           
 
