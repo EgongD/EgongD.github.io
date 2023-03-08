@@ -50,8 +50,8 @@ about_content: | # this will include new lines to allow paragraphs
   <br>
   <br>
   <br>
-  늦게 입문한 만큼 더 <strong>성실하고 꾸준하게 준비하고 나아가는 개발자</strong>가 되는 것이 저의 다짐이고,
-  프로젝트를 통해 팀원들과 많은 소통으로 많은 문제를 해결했었기 때문에,  <strong>팀원을 존중하고 소통하며 나아가는 개발 문화를 지향</strong>하겠습니다.
+  <strong>성실하고 꾸준하게 준비하고 나아가는 개발자</strong>가 되는 것이 저의 다짐이고,
+  프로젝트를 통해 팀원들과 많은 소통으로 많은 문제를 해결했었기 때문에 <strong>팀원을 존중하고 소통하며 나아가는 개발 문화를 지향</strong>하겠습니다.
   
 
 content:
@@ -72,21 +72,20 @@ content:
         quote: >
           늦었다고 생각했을 때 더 늦기 전에 해보고싶은걸 해보자!
         description: | # this will include new lines to allow paragraphs
-          * <strong>분석업무를 약 4년 정도 할 정도로 꼼꼼함</strong><br>
+          * <strong>분석업무를 하며 생긴 꼼꼼함</strong><br>
            : 환경부주관 정도관리(미지의 값이 주어졌을 때 실험을 통해 답을 도출해내는 시험) 수질, PCBs 분야 매년 통과.<br>
            : (통과하지 못하면 최대 면허정지 수준의 제제를 받을 수 있느 중요한 시험.)
            <br><br>
            
           * <strong>팀과의 협업 시 소통으로 문제를 빠르게 해결</strong><br>
            : 프리 프로젝트 시 소통의 부재로 개발하는 시간이 너무 오래 걸려 문제가 발생했던 경험이 있어서, 메인 프로젝트 때에는 프론트엔드, 백엔드 가리지 않고 상황을 공유하며 진행.<br>
-           : 
-           : 이에 별 탈 없이 프로젝트를 마무리함.
+           : 모르는 오류나 혼자 알아보고 공부하다 도저히 못풀겠는 오류나 문제들은 서로 공유해서 같이 알아보고 해결함.
            <br><br>
            
           * <strong>맡은 업무는 끝까지 수행함</strong><br>
            : 메인 프로젝트 시 처음 접하는 KakaoPay API를 이용해 카카오페이 테스트 결제 부분 구현.<br>
-           : 처음 구현해보는 기능이고 정말 구현해보고 싶었어서 팀원들에게 양해를 구하고 약10일 정도 시간을 소요함.<br>
-           : 처
+           : 구글링, 카카오디벨로터 질문 등 팀원들에게 양해를 구하고 약 10일 정도 시간을 소요함.<br>
+           : 처음 해보는 기능이라 많이 어려웠지만 성공적으로 구현함.
            <br><br>
            
   - title: Skill
@@ -103,10 +102,11 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: 왜 가?(Frontend : 3명, Backend : 3명)
+        title: 왜 가?
         link: http://whystay.p-e.kr
         # link_text: boringcompany.com
-        sub_title: 숙박목적에 따른 예약 플랫폼
+        sub_title: 숙박목적에 따른 예약 플랫폼<br>
+        sub_title: Frontend : 3명, Backend : 3명
         caption: 2023.01 - 2023.02
         quote: >
           프론트와의 소통으로 
