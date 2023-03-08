@@ -46,11 +46,11 @@ additional_links:
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  .<br>
-  <br>
-  <br>
-  <br>
-  <strong>성실하고 꾸준하게 준비하고 나아가는 개발자</strong>가 되는 것이 저의 다짐이고,
+  Java Spring을 기반으로한 웹 백엔드 개발자 입니다.<br>
+  프로젝트때 Spring JPA를 주로 사용해서 개발했습니다. <br><br>
+  
+  후에 지향하는 개발 문화는 
+  <strong>성실하고 꾸준하게 준비하고 나아가는 개발자</strong>가 되는 것,
   프로젝트를 통해 팀원들과 많은 소통으로 많은 문제를 해결했었기 때문에 <strong>팀원을 존중하고 소통하며 나아가는 개발 문화를 지향</strong>하겠습니다.
   
 
