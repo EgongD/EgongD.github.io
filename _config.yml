@@ -109,7 +109,7 @@ content:
             : Spring MVC를 이용한 CRUD 기능을 수행하는 부분 구현.
           <br><br>
           - <strong>Kakaopay API를 이용한 테스트 결제 구현</strong><br>
-            : 대기업 API를 이용한 구현 방법 습득.
+            : 대기업 API를 이용한 구현 방법 습득, 처음 구현해보는 기능이고 정말 구현해보고 싶었어서 팀원들에게 양해를 구하고 약10일 정도 잡아먹었다.(팀원들도 많이 도와줬다.)
           <br><br>
           - <strong>AWS EC2를 이용한 배포</strong><br>
           <br><br>
@@ -119,6 +119,11 @@ content:
           - <strong>코드 분석</strong><br>
             : 팀원과의 회의 때 코드가 왜 이렇게 되었는지 뜯어보며 분석하고, 다른 팀원의 코드 스타일도 살펴 봄.
           <br><br>
+          - <string>팀원들과의 호흡</strong><br>
+            : 팀원들이 다 새벽 2시, 3시까지 남아서 프로젝트를 해서 정말 상시 소통이라고 말할 수 있을 정도로 많이 소통함.<br>
+            : 매 주 3 ~ 4회 회의를 통한 진행상황 체크.<br>
+            : 어려운 부분 또는 프론트와의 통신 문제로 인한 오류 발생 시 구글링, 회의를 통한 오류해결.<br>
+            : 프로젝트 마무리 후 React로 작업한 프론트 코드를 보며 어떻게 했는지 코드를 뜯어봄.
 
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
