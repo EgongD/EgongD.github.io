@@ -71,7 +71,7 @@ content:
           늦었다고 생각했을 때 더 늦기 전에 해보고싶은걸 해보자!
         description: | # this will include new lines to allow paragraphs
           * <strong>분석업무를 약 4년 정도 할 정도로 꼼꼼함</strong><br>
-           : 매년 환경부주관 정도관리(미지의 값을 실험을 통해 답을 도출해내는 시험) 수질, PCBs 분야 통과. 
+           : 환경부주관 정도관리(미지의 값을 실험을 통해 답을 도출해내는 시험) 수질, PCBs 분야 매년 통과. 
            <br><br>
            
           * <strong>팀과의 협업 시 소통으로 문제를 빠르게 해결</strong><br>
@@ -97,7 +97,7 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: 왜 가?
+        title: 왜 가?(Frontend : 3명, Backend : 3명)
         link: http://whystay.p-e.kr
         # link_text: boringcompany.com
         sub_title: 숙박목적에 따른 예약 플랫폼
