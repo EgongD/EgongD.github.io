@@ -124,12 +124,12 @@ content:
           - <strong>코드 분석</strong><br>
             : 팀원과의 회의 때 코드가 왜 이렇게 되었는지 뜯어보며 분석하고, 다른 팀원의 코드 스타일도 살펴 봄.
           <br><br>
-          - <string>팀원들과의 호흡</strong><br>
+          - <strong>팀원들과의 호흡</strong><br>
             : 팀원들이 다 새벽 2시, 3시까지 남아서 프로젝트를 해서 정말 상시 소통이라고 말할 수 있을 정도로 많이 소통함.<br>
             : 매 주 3 ~ 4회 회의를 통한 진행상황 체크.<br>
             : 어려운 부분 또는 프론트와의 통신 문제로 인한 오류 발생 시 구글링, 회의를 통한 오류해결.<br>
             : 프로젝트 마무리 후 React로 작업한 프론트 코드를 보며 어떻게 했는지 코드를 뜯어봄.
-            <br><br>
+            <br><br><br>
             
           KakaoPay관련 블로깅 내용 링크 : [https://coding-gongdae.tistory.com/42](https://coding-gongdae.tistory.com/42)
           <br><br>
